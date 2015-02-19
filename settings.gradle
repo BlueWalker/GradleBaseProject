@@ -1,0 +1,3 @@
+include ':Apps:GlassApplication'
+include ':Examples', ':Examples:BeaconLibExample', ':Examples:BeaconLibGlassExample'
+include ':Libraries:BeaconLib', ':Libraries:Core', ':Libraries:Pathfinding', ':Libraries:Trilateration', ':Libraries:UserTrackerModule'
